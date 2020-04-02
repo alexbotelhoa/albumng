@@ -10,7 +10,6 @@
 </head>
 <body>
     <app-root></app-root>
-
     <script src="{{ asset('js/runtime-es2015.js') }}" type="module"></script>
     <script src="{{ asset('js/runtime-es5.js') }}" nomodule defer></script>
     <script src="{{ asset('js/polyfills-es5.js') }}" nomodule defer></script>
