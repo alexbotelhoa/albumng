@@ -1,11 +1,403 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="251d5a86-b57d-4141-a8da-7d3a56369269" name="Default" comment="Início do Projeto">
+    <list default="true" id="251d5a86-b57d-4141-a8da-7d3a56369269" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/album/src/app/post.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/index.html" afterPath="$PROJECT_DIR$/public/js/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/main-es2015.js" afterPath="$PROJECT_DIR$/public/js/main-es2015.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/main-es2015.js.map" afterPath="$PROJECT_DIR$/public/js/main-es2015.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/main-es5.js" afterPath="$PROJECT_DIR$/public/js/main-es5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/main-es5.js.map" afterPath="$PROJECT_DIR$/public/js/main-es5.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/styles-es2015.js" afterPath="$PROJECT_DIR$/public/js/styles-es2015.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/styles-es2015.js.map" afterPath="$PROJECT_DIR$/public/js/styles-es2015.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/styles-es5.js" afterPath="$PROJECT_DIR$/public/js/styles-es5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/styles-es5.js.map" afterPath="$PROJECT_DIR$/public/js/styles-es5.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor-es2015.js" afterPath="$PROJECT_DIR$/public/js/vendor-es2015.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor-es2015.js.map" afterPath="$PROJECT_DIR$/public/js/vendor-es2015.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor-es5.js" afterPath="$PROJECT_DIR$/public/js/vendor-es5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vendor-es5.js.map" afterPath="$PROJECT_DIR$/public/js/vendor-es5.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/animations.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/animations.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/browser/browser.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/browser/browser.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/browser/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/browser/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/browser/testing/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/browser/testing/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/browser/testing/testing.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/browser/testing/testing.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/animations/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/a11y-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/a11y-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/aria-describer/aria-describer.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/aria-describer/aria-describer.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/focus-monitor/focus-monitor.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/focus-monitor/focus-monitor.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/focus-trap/configurable-focus-trap-factory.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/focus-trap/configurable-focus-trap-factory.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/focus-trap/focus-trap-manager.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/focus-trap/focus-trap-manager.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/focus-trap/focus-trap.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/focus-trap/focus-trap.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/high-contrast-mode/high-contrast-mode-detector.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/high-contrast-mode/high-contrast-mode-detector.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/interactivity-checker/interactivity-checker.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/interactivity-checker/interactivity-checker.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/live-announcer/live-announcer.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/live-announcer/live-announcer.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/a11y/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/accordion/accordion-item.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/accordion/accordion-item.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/accordion/accordion-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/accordion/accordion-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/accordion/accordion.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/accordion/accordion.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/accordion/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/accordion/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/accordion/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/accordion/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/bidi/bidi-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/bidi/bidi-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/bidi/dir.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/bidi/dir.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/bidi/directionality.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/bidi/directionality.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/bidi/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/bidi/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/bidi/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/bidi/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/clipboard/clipboard-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/clipboard/clipboard-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/clipboard/clipboard.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/clipboard/clipboard.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/clipboard/copy-to-clipboard.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/clipboard/copy-to-clipboard.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/clipboard/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/clipboard/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/clipboard/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/clipboard/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/collections/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/collections/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/collections/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/collections/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/collections/unique-selection-dispatcher.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/collections/unique-selection-dispatcher.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drag-handle.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drag-handle.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drag-placeholder.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drag-placeholder.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drag-preview.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drag-preview.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drag.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drag.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drop-list-group.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drop-list-group.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drop-list.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/directives/drop-list.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/drag-drop-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/drag-drop-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/drag-drop-registry.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/drag-drop-registry.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/drag-drop.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/drag-drop.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/drag-drop/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/keycodes/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/keycodes/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/keycodes/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/keycodes/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/layout/breakpoints-observer.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/layout/breakpoints-observer.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/layout/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/layout/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/layout/layout-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/layout/layout-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/layout/media-matcher.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/layout/media-matcher.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/layout/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/layout/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/observers/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/observers/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/observers/observe-content.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/observers/observe-content.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/observers/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/observers/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/fullscreen-overlay-container.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/fullscreen-overlay-container.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/keyboard/overlay-keyboard-dispatcher.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/keyboard/overlay-keyboard-dispatcher.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/overlay-container.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/overlay-container.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/overlay-directives.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/overlay-directives.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/overlay-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/overlay-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/overlay.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/overlay.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/position/overlay-position-builder.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/position/overlay-position-builder.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/scroll/scroll-strategy-options.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/overlay/scroll/scroll-strategy-options.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/platform/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/platform/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/platform/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/platform/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/platform/platform-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/platform/platform-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/platform/platform.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/platform/platform.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/portal/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/portal/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/portal/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/portal/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/portal/portal-directives.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/portal/portal-directives.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/fixed-size-virtual-scroll.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/fixed-size-virtual-scroll.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/scroll-dispatcher.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/scroll-dispatcher.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/scrollable.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/scrollable.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/scrolling-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/scrolling-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/viewport-ruler.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/viewport-ruler.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/virtual-for-of.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/virtual-for-of.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/virtual-scroll-viewport.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/scrolling/virtual-scroll-viewport.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/step-header.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/step-header.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/step-label.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/step-label.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/stepper-button.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/stepper-button.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/stepper-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/stepper-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/stepper.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/stepper/stepper.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/cell.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/cell.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/row.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/row.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/table-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/table-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/table.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/table.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/text-column.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/table/text-column.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/text-field/autofill.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/text-field/autofill.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/text-field/autosize.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/text-field/autosize.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/text-field/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/text-field/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/text-field/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/text-field/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/text-field/text-field-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/text-field/text-field-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/nested-node.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/nested-node.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/node.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/node.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/outlet.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/outlet.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/padding.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/padding.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/toggle.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/toggle.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/tree-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/tree-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/tree.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/cdk/tree/tree.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/base/base2.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/base/base2.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/breakpoints/break-point-registry.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/breakpoints/break-point-registry.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/match-media/match-media.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/match-media/match-media.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/match-media/mock/mock-match-media.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/match-media/mock/mock-match-media.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/media-marshaller/media-marshaller.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/media-marshaller/media-marshaller.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/media-marshaller/print-hook.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/media-marshaller/print-hook.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/media-observer/media-observer.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/media-observer/media-observer.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/media-trigger/media-trigger.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/media-trigger/media-trigger.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/style-utils/style-utils.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/style-utils/style-utils.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/stylesheet-map/stylesheet-map.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/core/typings/stylesheet-map/stylesheet-map.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/typings/class/class.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/typings/class/class.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/typings/img-src/img-src.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/typings/img-src/img-src.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/typings/module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/typings/module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/typings/show-hide/show-hide.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/typings/show-hide/show-hide.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/typings/style/style.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/extended/typings/style/style.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex-layout.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex-layout.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/flex-align/flex-align.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/flex-align/flex-align.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/flex-fill/flex-fill.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/flex-fill/flex-fill.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/flex-offset/flex-offset.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/flex-offset/flex-offset.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/flex-order/flex-order.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/flex-order/flex-order.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/flex/flex.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/flex/flex.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/layout-align/layout-align.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/layout-align/layout-align.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/layout-gap/layout-gap.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/layout-gap/layout-gap.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/layout/layout.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/layout/layout.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/flex/typings/module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/align-columns/align-columns.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/align-columns/align-columns.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/align-rows/align-rows.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/align-rows/align-rows.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/area/area.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/area/area.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/areas/areas.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/areas/areas.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/auto/auto.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/auto/auto.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/column/column.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/column/column.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/columns/columns.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/columns/columns.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/gap/gap.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/gap/gap.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/grid-align/grid-align.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/grid-align/grid-align.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/row/row.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/row/row.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/rows/rows.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/grid/typings/rows/rows.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/typings/module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/flex-layout/typings/module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/autocomplete-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/autocomplete-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/autocomplete-origin.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/autocomplete-origin.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/autocomplete-trigger.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/autocomplete-trigger.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/autocomplete.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/autocomplete.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/autocomplete/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/badge/badge-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/badge/badge-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/badge/badge.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/badge/badge.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/badge/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/badge/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/badge/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/badge/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/bottom-sheet/bottom-sheet-container.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/bottom-sheet/bottom-sheet-container.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/bottom-sheet/bottom-sheet-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/bottom-sheet/bottom-sheet-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/bottom-sheet/bottom-sheet.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/bottom-sheet/bottom-sheet.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/bottom-sheet/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/bottom-sheet/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/bottom-sheet/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/bottom-sheet/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button-toggle/button-toggle-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button-toggle/button-toggle-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button-toggle/button-toggle.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button-toggle/button-toggle.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button-toggle/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button-toggle/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button-toggle/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button-toggle/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button/button-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button/button-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button/button.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button/button.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/button/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/card/card-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/card/card-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/card/card.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/card/card.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/card/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/card/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/card/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/card/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/checkbox/checkbox-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/checkbox/checkbox-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/checkbox/checkbox-required-validator.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/checkbox/checkbox-required-validator.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/checkbox/checkbox.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/checkbox/checkbox.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/checkbox/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/checkbox/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/checkbox/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/checkbox/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/chip-input.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/chip-input.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/chip-list.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/chip-list.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/chip.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/chip.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/chips-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/chips-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/chips/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/common-behaviors/common-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/common-behaviors/common-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/datetime/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/datetime/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/datetime/native-date-adapter.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/datetime/native-date-adapter.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/error/error-options.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/error/error-options.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/gestures/gesture-config.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/gestures/gesture-config.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/line/line.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/line/line.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/option/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/option/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/option/optgroup.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/option/optgroup.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/option/option.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/option/option.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/ripple/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/ripple/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/ripple/ripple.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/ripple/ripple.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/selection/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/selection/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/selection/pseudo-checkbox/pseudo-checkbox.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/core/selection/pseudo-checkbox/pseudo-checkbox.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/calendar-body.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/calendar-body.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/calendar.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/calendar.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/datepicker-input.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/datepicker-input.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/datepicker-intl.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/datepicker-intl.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/datepicker-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/datepicker-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/datepicker-toggle.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/datepicker-toggle.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/datepicker.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/datepicker.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/month-view.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/month-view.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/multi-year-view.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/multi-year-view.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/year-view.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/datepicker/year-view.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/dialog-container.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/dialog-container.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/dialog-content-directives.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/dialog-content-directives.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/dialog-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/dialog-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/dialog.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/dialog.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/dialog/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/divider/divider-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/divider/divider-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/divider/divider.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/divider/divider.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/divider/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/divider/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/divider/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/divider/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/accordion.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/accordion.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/expansion-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/expansion-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/expansion-panel-content.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/expansion-panel-content.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/expansion-panel-header.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/expansion-panel-header.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/expansion-panel.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/expansion-panel.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/expansion/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/error.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/error.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/form-field-control.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/form-field-control.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/form-field-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/form-field-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/form-field.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/form-field.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/hint.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/hint.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/label.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/label.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/placeholder.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/placeholder.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/prefix.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/prefix.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/suffix.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/form-field/suffix.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/grid-list/grid-list-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/grid-list/grid-list-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/grid-list/grid-list.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/grid-list/grid-list.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/grid-list/grid-tile.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/grid-list/grid-tile.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/grid-list/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/grid-list/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/grid-list/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/grid-list/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/icon-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/icon-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/icon-registry.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/icon-registry.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/icon.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/icon.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/testing/fake-icon-registry.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/testing/fake-icon-registry.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/testing/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/testing/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/testing/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/icon/testing/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/input/autosize.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/input/autosize.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/input/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/input/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/input/input-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/input/input-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/input/input.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/input/input.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/input/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/input/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/list/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/list/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/list/list-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/list/list-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/list/list.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/list/list.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/list/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/list/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/list/selection-list.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/list/selection-list.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/menu-content.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/menu-content.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/menu-item.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/menu-item.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/menu-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/menu-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/menu-trigger.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/menu-trigger.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/menu.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/menu.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/menu/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/paginator/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/paginator/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/paginator/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/paginator/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/paginator/paginator-intl.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/paginator/paginator-intl.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/paginator/paginator-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/paginator/paginator-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/paginator/paginator.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/paginator/paginator.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-bar/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-bar/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-bar/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-bar/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-bar/progress-bar-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-bar/progress-bar-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-bar/progress-bar.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-bar/progress-bar.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-spinner/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-spinner/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-spinner/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-spinner/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-spinner/progress-spinner-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-spinner/progress-spinner-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-spinner/progress-spinner.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/progress-spinner/progress-spinner.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/radio/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/radio/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/radio/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/radio/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/radio/radio-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/radio/radio-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/radio/radio.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/radio/radio.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/select/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/select/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/select/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/select/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/select/select-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/select/select-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/select/select.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/select/select.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sidenav/drawer.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sidenav/drawer.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sidenav/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sidenav/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sidenav/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sidenav/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sidenav/sidenav-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sidenav/sidenav-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sidenav/sidenav.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sidenav/sidenav.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slide-toggle/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slide-toggle/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slide-toggle/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slide-toggle/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slide-toggle/slide-toggle-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slide-toggle/slide-toggle-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slide-toggle/slide-toggle-required-validator.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slide-toggle/slide-toggle-required-validator.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slide-toggle/slide-toggle.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slide-toggle/slide-toggle.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slider/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slider/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slider/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slider/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slider/slider-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slider/slider-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slider/slider.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/slider/slider.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/simple-snack-bar.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/simple-snack-bar.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/snack-bar-container.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/snack-bar-container.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/snack-bar-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/snack-bar-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/snack-bar.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/snack-bar/snack-bar.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/sort-header-intl.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/sort-header-intl.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/sort-header.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/sort-header.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/sort-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/sort-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/sort.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/sort/sort.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/step-header.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/step-header.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/step-label.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/step-label.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/stepper-button.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/stepper-button.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/stepper-icon.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/stepper-icon.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/stepper-intl.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/stepper-intl.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/stepper-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/stepper-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/stepper.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/stepper/stepper.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/cell.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/cell.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/row.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/row.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/table-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/table-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/table.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/table.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/text-column.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/table/text-column.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/ink-bar.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/ink-bar.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/paginated-tab-header.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/paginated-tab-header.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-body.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-body.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-content.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-content.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-group.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-group.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-header.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-header.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-label-wrapper.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-label-wrapper.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-label.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-label.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-nav-bar/tab-nav-bar.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab-nav-bar/tab-nav-bar.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tab.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tabs-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tabs/tabs-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/toolbar/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/toolbar/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/toolbar/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/toolbar/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/toolbar/toolbar-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/toolbar/toolbar-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/toolbar/toolbar.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/toolbar/toolbar.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tooltip/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tooltip/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tooltip/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tooltip/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tooltip/tooltip-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tooltip/tooltip-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tooltip/tooltip.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tooltip/tooltip.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/index.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/index.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/node.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/node.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/outlet.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/outlet.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/package.json" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/padding.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/padding.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/toggle.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/toggle.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/tree-module.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/tree-module.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/tree.d.ts" afterPath="$PROJECT_DIR$/resources/album/node_modules/@angular/material/tree/tree.d.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/package.json" afterPath="$PROJECT_DIR$/resources/album/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/src/app/app.component.html" afterPath="$PROJECT_DIR$/resources/album/src/app/app.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/src/app/app.component.sass" afterPath="$PROJECT_DIR$/resources/album/src/app/app.component.sass" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/src/app/app.component.ts" afterPath="$PROJECT_DIR$/resources/album/src/app/app.component.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/src/app/app.module.ts" afterPath="$PROJECT_DIR$/resources/album/src/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/src/styles.sass" afterPath="$PROJECT_DIR$/resources/album/src/styles.sass" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/album/src/index.html" afterPath="$PROJECT_DIR$/resources/album/src/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,18 +411,7 @@
     <pharPath>C:\xampp\htdocs\composer.phar</pharPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="90" lean-forward="false" selection-start-line="6" selection-start-column="90" selection-end-line="6" selection-end-column="90" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,17 +432,26 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/resources/album/e2e/protractor.conf.js" />
-        <option value="$PROJECT_DIR$/resources/album/package.json" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/album/dist/album/index.html" />
-        <option value="$PROJECT_DIR$/resources/album/src/index.html" />
         <option value="$PROJECT_DIR$/resources/album/src/styles.css" />
-        <option value="$PROJECT_DIR$/resources/album/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/resources/album/src/styles.sass" />
-        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
         <option value="$PROJECT_DIR$/public/js/index.html" />
+        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/album/package.json" />
+        <option value="$PROJECT_DIR$/resources/album/src/index.html" />
+        <option value="$PROJECT_DIR$/resources/album/src/app/app.component.sass" />
+        <option value="$PROJECT_DIR$/resources/album/src/app/post.ts" />
+        <option value="$PROJECT_DIR$/resources/album/src/app/post/post.component.sass" />
+        <option value="$PROJECT_DIR$/resources/album/src/app/post/post.component.html" />
+        <option value="$PROJECT_DIR$/resources/album/src/app/post/post.component.ts" />
+        <option value="$PROJECT_DIR$/resources/album/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/resources/album/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/resources/album/src/app/post-dialog/post-dialog.component.ts" />
+        <option value="$PROJECT_DIR$/resources/album/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/resources/album/src/app/post-dialog/post-dialog.component.html" />
       </list>
     </option>
   </component>
@@ -220,6 +610,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,17 +622,6 @@
             <path>
               <item name="ProjAlbumNg" type="b2602c69:ProjectViewProjectNode" />
               <item name="albumng" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ProjAlbumNg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="albumng" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ProjAlbumNg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="albumng" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -248,25 +629,16 @@
               <item name="albumng" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="album" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="ProjAlbumNg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="albumng" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="album" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/album/package.json" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="node.js.selected.package.stylelint" value="" />
@@ -298,15 +670,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.Serve">
-    <configuration name="Serve" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/artisan" scriptParameters="serve --host=192.168.1.101">
-      <CommandLine workingDirectory="$PROJECT_DIR$" />
-      <option name="workingDirectory" value="C:\xampp\htdocs\albumng" />
+  <component name="RunManager" selected="npm.Serve">
+    <configuration name="Serve" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/resources/album/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
     </configuration>
     <configuration name="Serve" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/artisan" scriptParameters="serve --host=192.168.1.101">
       <CommandLine workingDirectory="$PROJECT_DIR$" />
       <option name="workingDirectory" value="C:\xampp\htdocs\albumng" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.Serve" />
+      <item index="1" class="java.lang.String" itemvalue="npm.Serve" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -326,7 +707,9 @@
       <workItem from="1585852457018" duration="347000" />
       <workItem from="1585852835769" duration="7652000" />
       <workItem from="1585866712107" duration="24000" />
-      <workItem from="1585866867084" duration="1507000" />
+      <workItem from="1585866867084" duration="2531000" />
+      <workItem from="1585912526178" duration="2225000" />
+      <workItem from="1585914903393" duration="20458000" />
     </task>
     <task id="LOCAL-00001" summary="Início do Projeto">
       <created>1585852131594</created>
@@ -342,25 +725,33 @@
       <option name="project" value="LOCAL" />
       <updated>1585858583497</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Início do Projeto">
+      <created>1585868448111</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585868448111</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21744000" />
+    <option name="totallyTimeSpent" value="45451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="NativeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15938166" sideWeight="0.5121556" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33369565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16577825" sideWeight="0.4878444" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18550107" sideWeight="0.4878444" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Nativescript Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -392,51 +783,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -452,9 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -465,20 +812,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/album/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/album/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/resources/album/.editorconfig" />
     <entry file="file://$PROJECT_DIR$/resources/album/tsconfig.spec.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -504,7 +839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1556">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,39 +877,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/album/src/app/app.component.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/album/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/album/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/album/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/album/src/app/app.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -596,32 +898,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/lang/pt-BR/auth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/album/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -688,21 +968,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/album/src/app/app.module.ts">
+    <entry file="file://$PROJECT_DIR$/public/js/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="88" lean-forward="false" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/album/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        <state relative-caret-position="102">
+          <caret line="6" column="71" lean-forward="false" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -714,19 +1025,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/index.html">
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="88" lean-forward="false" selection-start-line="6" selection-start-column="88" selection-end-line="6" selection-end-column="88" />
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/app.component.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="90" lean-forward="false" selection-start-line="6" selection-start-column="90" selection-end-line="6" selection-end-column="90" />
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/post/post.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/post/post.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/post-dialog/post-dialog.component.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/post-dialog/post-dialog.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/post/post.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/post/post.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="72" lean-forward="false" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <marker date="1585934370106" expanded="true" signature="1272:1285" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/post.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/post-dialog/post-dialog.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/album/src/app/post-dialog/post-dialog.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="83" lean-forward="false" selection-start-line="26" selection-start-column="83" selection-end-line="26" selection-end-column="83" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
