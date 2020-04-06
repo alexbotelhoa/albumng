@@ -27,8 +27,7 @@ class PostController extends Controller
     public function store(Request $request)
     {
         $post = new Post();
-        $path = $request->file('arquivo')->store('imagens', 'public');
-
+        $path = Storage::disk('public')->put('imagens', $request->file);
         $post->name     = $request->name;
         $post->email    = $request->email;
         $post->title    = $request->title;
@@ -51,7 +50,7 @@ class PostController extends Controller
     {
         $post = Post::find($id);
         if (isset($post)) {
-            Storage::disk('public')->delete($post->arquivo);
+            Storage::disk('public')->delete($post->file);
             $post->delete();
             return 204;
         }
@@ -64,7 +63,7 @@ class PostController extends Controller
         if (isset($post)) {
             $post->likes++;
             $post->save();
-            return 204;
+            return $post;
         }
         return response('ID não encontrado', 404);
     }

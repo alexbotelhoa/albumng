@@ -21,6 +21,7 @@ import { MatBadgeModule } from '@angular/material/badge';
 import { AppComponent } from './app.component';
 import { PostComponent } from './post/post.component';
 import { PostDialogComponent } from './post-dialog/post-dialog.component';
+import {PostService} from "./post.service";
 
 @NgModule({
   declarations: [
@@ -48,7 +49,7 @@ import { PostDialogComponent } from './post-dialog/post-dialog.component';
     MatChipsModule,
     MatBadgeModule
   ],
-  providers: [],
+  providers: [PostService],
   bootstrap: [AppComponent],
   entryComponents: [PostDialogComponent]
 })

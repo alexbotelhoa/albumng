@@ -14,7 +14,7 @@ export class PostDialogComponent implements OnInit {
     arquivo: null
   };
 
-  nomearquivo: string;
+  public nomearquivo: string;
 
   constructor(
       public dialogRef: MatDialogRef<PostDialogComponent>
@@ -24,8 +24,8 @@ export class PostDialogComponent implements OnInit {
   }
 
   mudouarquivo(event) {
-    this.nomearquivo = event.target.files[0].name;
     this.dados.arquivo = event.target.files[0];
+    this.nomearquivo = event.target.files[0].name;
   }
 
   salvar() {

@@ -1,5 +1,6 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {Post} from "../post";
+import {PostService} from "../post.service";
 
 @Component({
   selector: 'app-post',
@@ -8,11 +9,20 @@ import {Post} from "../post";
 })
 export class PostComponent implements OnInit {
 
-  @Input() post: Post;
+    @Input() post: Post;
 
-  constructor() { }
+    constructor(
+        public postService: PostService
+    ) { }
 
-  ngOnInit(): void {
-  }
+    ngOnInit() { }
+
+    like() {
+        this.postService.like(this.post.id);
+    }
+
+    apagar() {
+        this.postService.apagar(this.post.id);
+    }
 
 }
